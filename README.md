@@ -20,7 +20,6 @@
 Nearest Neighbors ([user guide](http://scikit-learn.org/stable/modules/neighbors.html)), KNeighborsClassifier ([class documentation](http://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html))
 
 [Videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/) from An Introduction to Statistical Learning
-
-Classification Problems and K-Nearest Neighbors (Chapter 2)
-Introduction to Classification (Chapter 4)
-Logistic Regression and Maximum Likelihood (Chapter 4)
+- Classification Problems and K-Nearest Neighbors (Chapter 2)
+- Introduction to Classification (Chapter 4)
+- Logistic Regression and Maximum Likelihood (Chapter 4)
